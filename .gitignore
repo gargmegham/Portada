@@ -7,5 +7,3 @@ cloudstream/local.properties
 
 # Skystream
 skystream/node_modules/
-skystream/dist/*.sky
-
