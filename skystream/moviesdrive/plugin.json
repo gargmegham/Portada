@@ -1,0 +1,20 @@
+{
+  "packageName": "dev.gargmegham.portada.moviesdrive",
+  "name": "MoviesDrive",
+  "version": 1,
+  "baseUrl": "https://moviesdrive.forum",
+  "description": "CSX MoviesDrive adapter for SkyStream",
+  "authors": [
+    "gargmegham"
+  ],
+  "languages": [
+    "hi",
+    "en"
+  ],
+  "categories": [
+    "Movie",
+    "TvSeries",
+    "Anime",
+    "AsianDrama"
+  ]
+}

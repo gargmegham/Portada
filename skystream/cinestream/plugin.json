@@ -1,0 +1,18 @@
+{
+  "packageName": "dev.gargmegham.portada.cinestream",
+  "name": "CineStream",
+  "version": 1,
+  "baseUrl": "https://cinemeta-catalogs.strem.io",
+  "description": "CSX CineStream adapter for SkyStream",
+  "authors": [
+    "gargmegham"
+  ],
+  "languages": [
+    "en"
+  ],
+  "categories": [
+    "Movie",
+    "TvSeries",
+    "Anime"
+  ]
+}

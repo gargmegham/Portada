@@ -1,2 +1,80 @@
-[]
-
+[
+  {
+    "packageName": "dev.gargmegham.portada.portada",
+    "name": "Portada",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "Portada scaffold plugin (sources not added yet)",
+    "authors": [
+      "gargmegham"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/gargmegham/Portada/main/skystream/dist/dev.gargmegham.portada.portada.sky"
+  },
+  {
+    "packageName": "dev.gargmegham.portada.moviesdrive",
+    "name": "MoviesDrive",
+    "version": 1,
+    "baseUrl": "https://moviesdrive.forum",
+    "description": "CSX MoviesDrive adapter for SkyStream",
+    "authors": [
+      "gargmegham"
+    ],
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "url": "https://raw.githubusercontent.com/gargmegham/Portada/main/skystream/dist/dev.gargmegham.portada.moviesdrive.sky"
+  },
+  {
+    "packageName": "dev.gargmegham.portada.vegamovies",
+    "name": "VegaMovies",
+    "version": 1,
+    "baseUrl": "https://vegamovies.vodka",
+    "description": "CSX VegaMovies adapter for SkyStream",
+    "authors": [
+      "gargmegham"
+    ],
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "url": "https://raw.githubusercontent.com/gargmegham/Portada/main/skystream/dist/dev.gargmegham.portada.vegamovies.sky"
+  },
+  {
+    "packageName": "dev.gargmegham.portada.cinestream",
+    "name": "CineStream",
+    "version": 1,
+    "baseUrl": "https://cinemeta-catalogs.strem.io",
+    "description": "CSX CineStream adapter for SkyStream",
+    "authors": [
+      "gargmegham"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "url": "https://raw.githubusercontent.com/gargmegham/Portada/main/skystream/dist/dev.gargmegham.portada.cinestream.sky"
+  }
+]
