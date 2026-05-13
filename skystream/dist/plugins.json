@@ -1,10 +1,10 @@
 [
   {
-    "packageName": "dev.gargmegham.portada.portada",
-    "name": "Portada",
+    "packageName": "dev.gargmegham.portada.cinestream",
+    "name": "CineStream",
     "version": 1,
-    "baseUrl": "https://example.com",
-    "description": "Portada scaffold plugin (sources not added yet)",
+    "baseUrl": "https://cinemeta-catalogs.strem.io",
+    "description": "CSX CineStream adapter for SkyStream",
     "authors": [
       "gargmegham"
     ],
@@ -12,9 +12,11 @@
       "en"
     ],
     "categories": [
-      "Others"
+      "Movie",
+      "TvSeries",
+      "Anime"
     ],
-    "url": "https://raw.githubusercontent.com/gargmegham/Portada/main/skystream/dist/dev.gargmegham.portada.portada.sky"
+    "url": "https://raw.githubusercontent.com/gargmegham/Portada/main/skystream/dist/dev.gargmegham.portada.cinestream.sky"
   },
   {
     "packageName": "dev.gargmegham.portada.moviesdrive",
@@ -38,6 +40,23 @@
     "url": "https://raw.githubusercontent.com/gargmegham/Portada/main/skystream/dist/dev.gargmegham.portada.moviesdrive.sky"
   },
   {
+    "packageName": "dev.gargmegham.portada.portada",
+    "name": "Portada",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "Portada scaffold plugin (sources not added yet)",
+    "authors": [
+      "gargmegham"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/gargmegham/Portada/main/skystream/dist/dev.gargmegham.portada.portada.sky"
+  },
+  {
     "packageName": "dev.gargmegham.portada.vegamovies",
     "name": "VegaMovies",
     "version": 1,
@@ -57,24 +76,5 @@
       "AsianDrama"
     ],
     "url": "https://raw.githubusercontent.com/gargmegham/Portada/main/skystream/dist/dev.gargmegham.portada.vegamovies.sky"
-  },
-  {
-    "packageName": "dev.gargmegham.portada.cinestream",
-    "name": "CineStream",
-    "version": 1,
-    "baseUrl": "https://cinemeta-catalogs.strem.io",
-    "description": "CSX CineStream adapter for SkyStream",
-    "authors": [
-      "gargmegham"
-    ],
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "url": "https://raw.githubusercontent.com/gargmegham/Portada/main/skystream/dist/dev.gargmegham.portada.cinestream.sky"
   }
 ]
