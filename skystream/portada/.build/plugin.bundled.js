@@ -1,2 +1,0 @@
-var PluginModule=(()=>{(function(){async function e(a){a({success:!0,data:{}})}async function o(a,s){s({success:!0,data:[]})}async function l(a,s){s({success:!1,errorCode:"NOT_IMPLEMENTED",message:"Portada is scaffold-only at this stage. Sources will be added later."})}async function c(a,s){s({success:!1,errorCode:"NOT_IMPLEMENTED",message:"Portada is scaffold-only at this stage. Sources will be added later."})}globalThis.getHome=e,globalThis.search=o,globalThis.load=l,globalThis.loadStreams=c})();})();
-Object.assign(globalThis, PluginModule);

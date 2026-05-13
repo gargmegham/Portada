@@ -1,0 +1,20 @@
+{
+  "packageName": "dev.gargmegham.portada.animewave",
+  "name": "AnimeWave",
+  "version": 1,
+  "baseUrl": "https://animewave.to",
+  "domains": [
+    "animewave.to"
+  ],
+  "description": "A clone for hianime",
+  "authors": [
+    "gargmegham"
+  ],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "categories": [
+    "Anime"
+  ]
+}

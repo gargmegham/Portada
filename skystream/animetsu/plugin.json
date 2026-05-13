@@ -1,0 +1,16 @@
+{
+  "packageName": "dev.gargmegham.portada.animetsu",
+  "name": "Animetsu",
+  "version": 7,
+  "baseUrl": "https://example.com",
+  "description": "Clean anime picks with sub and dub.",
+  "authors": [
+    "gargmegham"
+  ],
+  "languages": [
+    "en","ja"
+  ],
+  "categories": [
+    "Anime"
+  ]
+}
