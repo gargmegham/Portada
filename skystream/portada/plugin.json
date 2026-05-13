@@ -1,0 +1,17 @@
+{
+  "packageName": "dev.gargmegham.portada.portada",
+  "name": "Portada",
+  "version": 1,
+  "baseUrl": "https://example.com",
+  "description": "Portada scaffold plugin (sources not added yet)",
+  "authors": [
+    "gargmegham"
+  ],
+  "languages": [
+    "en"
+  ],
+  "categories": [
+    "Others"
+  ]
+}
+

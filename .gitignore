@@ -1,0 +1,11 @@
+.DS_Store
+
+# Cloudstream / Gradle
+cloudstream/.gradle/
+cloudstream/**/build/
+cloudstream/local.properties
+
+# Skystream
+skystream/node_modules/
+skystream/dist/*.sky
+

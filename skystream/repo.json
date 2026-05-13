@@ -1,0 +1,10 @@
+{
+  "name": "Portada",
+  "packageName": "dev.gargmegham.portada",
+  "description": "Portada Skystream plugins repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/gargmegham/Portada/main/skystream/dist/plugins.json"
+  ]
+}
+
